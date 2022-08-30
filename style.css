@@ -1,0 +1,46 @@
+
+
+body {
+  background-color: blueviolet;
+  font-size: 16px;
+  font-family: SpaceShipFont;
+  padding: 2rem;
+}
+
+header {
+  text-align: center;
+  margin: 3rem 0px;
+}
+
+
+img {
+  width: 50%;
+  border-radius: 5em;
+}
+
+.side-bar {
+  float: left;
+  width: 50%;
+}
+
+.main {
+  float: left;
+  width: 90%;
+  text-align: center;
+}
+
+.space-photo {
+  width: 100%;
+}
+
+.red {
+  background-color: #A00;
+}
+
+#quote-title:hover {
+  background-color: #A00;
+}
+
+#space-adventures {
+  margin-top: 3rem;
+}
